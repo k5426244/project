@@ -1,0 +1,4 @@
+[13:13:49][139720346257216][async_logger][main.cc:12][ERROR] 测试日志
+[13:13:49][139720346257216][async_logger][main.cc:13][WARN] 测试日志
+[13:13:49][139720346257216][async_logger][main.cc:14][FATAL] 测试日志
+[13:13:49][139720346257216][async_logger][main.cc:17][ERROR] 测试日志
